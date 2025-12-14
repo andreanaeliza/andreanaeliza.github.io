@@ -16,3 +16,10 @@ h1{
 .img-down{
 	margin-top: 10px;
 }
+
+body{
+	background-color:#FFCFC9;
+}
+.row{
+	padding:1em;
+}
